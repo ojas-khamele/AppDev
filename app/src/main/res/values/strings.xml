@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RestroApp</string>
+    <string name="welcomeTag">Welcome to the Restro</string>
+    <string name="userTag">User</string>
+    <string name="adminTag">Admin</string>
+    <string name="please_select_typeTag">Please Select Type \nof Login!</string>
+    <string name="add_items">Add Items</string>
+    <string name="view_list">View List</string>
+    <string name="back">Back</string>
+    <string name="remove_items">Remove Items</string>
+    <string name="insert">Insert</string>
+    <string name="see_list">See List</string>
+    <string name="add_order">Add Order</string>
+    <string name="bill">Bill</string>
+    <string name="delete">Delete</string>
+    <string name="enter_item_name">Enter Item Name</string>
+    <string name="welcome_admin">Welcome Admin!</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="item_name">Item Name</string>
+    <string name="price">Price</string>
+    <string name="enter_the_details_admin">Enter the details Admin!</string>
+    <string name="item_name2">Item Name</string>
+    <string name="select_your_option_user">Select your option User!</string>
+    <string name="menu_contents">Menu Contents</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="add">Add</string>
+    <string name="quantity">Quantity</string>
+    <string name="edit_list">Edit List</string>
+    <string name="clear">Clear</string>
+    <string name="please_select_the_functionality">Please select the functionality</string>
+    <string name="deletion_operation">Deletion Operation!</string>
+</resources>
